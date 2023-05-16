@@ -16,3 +16,7 @@
     - name: Show value of database_vg_disks
       ansible.builtin.debug:
         var: database_vg_disks
+
+    - name: Create a VM in VCenter using the vmware.vmware_rest collection
+    
+    
