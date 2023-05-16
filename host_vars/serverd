@@ -1,0 +1,2 @@
+database_lv_size: 50%
+backup_lv_size: 20%
