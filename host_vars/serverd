@@ -1,2 +1,2 @@
-database_vg_database_lv_size: 9GiB
-database_vg_backup_lv_size: 5GiB
+database_vg_database_lv_size: 4GiB
+database_vg_backup_lv_size: 3GiB
